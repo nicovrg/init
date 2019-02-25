@@ -1,0 +1,1 @@
+ifconfig | grep ec: | cut -c 11-

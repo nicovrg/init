@@ -1,0 +1,1 @@
+netstat -rn | grep default | grep UGS | cut -c 20- | rev | cut -c 41- | rev

@@ -1,0 +1,1 @@
+dig slash16.org | grep IN | awk "NR==2" | cut -c 23-
