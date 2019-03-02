@@ -1,1 +1,5 @@
 netstat -rn | grep default | grep UGS | cut -c 20- | rev | cut -c 41- | rev
+
+#netstat: network statistics - affiche des informations sur les connexions réseau, les tables de routage et un certain nombre de statistiques dont ceux des interfaces, sans oublier les connexions masquées, les membres multicast, et enfin, les messages netlink. 
+#netstat -r: affiche la table de routage
+#netstat -n: affiche les addresses et numeros de ports

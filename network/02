@@ -1,0 +1,5 @@
+ifconfig en0 | grep broadcast | cut -d ' ' -f6
+arp -an | cut -c 4- | cut -d ')' -f1
+
+#recupere la ligne de broadcast et cut apres le sixieme espace
+#recupere tout les addresses ip 

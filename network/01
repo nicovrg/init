@@ -1,1 +1,6 @@
 ifconfig -a | grep UP | cut -d : -f1
+
+#La commande ifconfig (interface configurator) permet d'afficher les informations des interfaces réseau IP à partir de l'interpréteur de commandes.
+#-a: ifconfig permet d'afficher toutes les interfaces, qu'elles soient actives ou non.
+#grep UP: permet de ne conserver que les lignes avec UP
+#cut -d : -f1: permet de set le ':' comme delimiteur et d'en prendre la partie gauche

@@ -1,0 +1,3 @@
+traceroute slash16.org
+
+#traceroute affiche tous les chemins pris par les packets de donnees entre notre machine et les serveurs de slash16.org

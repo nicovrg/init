@@ -1,1 +1,4 @@
 dig slash16.org | grep IN | awk "NR==2" | cut -c 23-
+
+#dig affiche des infos sur le dns
+#awk "NR==2" affiche uniquement la deuxieme ligne

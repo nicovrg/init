@@ -1,3 +1,3 @@
 cd /etc && cat resolv.conf
 
-Le fichier /etc/resolv.conf permet d'indiquer au système quels serveurs interroger pour résoudre un nom de domaine, comme debian.org en adresse IP, comme 128.31.0.51. Il est donc indispensable d'avoir un fichier bien rempli pour accéder à internet cf https://debian-facile.org/doc:systeme:resolv.conf
+#Le fichier /etc/resolv.conf permet d'indiquer au système quels serveurs interroger pour résoudre un nom de domaine, comme debian.org en adresse IP, comme 128.31.0.51. Il est donc indispensable d'avoir un fichier bien rempli pour accéder à internet cf https://debian-facile.org/doc:systeme:resolv.conf

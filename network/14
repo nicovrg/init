@@ -1,0 +1,3 @@
+#/etc/hosts file on your local system to point the domain name to the IP address of the local DNS server you configured
+
+#on peut afficher ces fichiers avec ls -l /etc/hosts

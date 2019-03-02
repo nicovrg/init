@@ -1,0 +1,5 @@
+whois 54.192.185.43
+
+#54.192.185.43 est une des addresses de slash16.org
+#whois permet d interroger les registres afin de retrouver les infos sur les noms de domaines / addresses ip
+#whois --help

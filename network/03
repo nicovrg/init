@@ -1,1 +1,3 @@
 ifconfig | grep ec: | cut -c 11-
+
+#grep la ligne ec puis cut 11 caracteres
