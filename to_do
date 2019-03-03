@@ -14,14 +14,12 @@
                 14 - OK
                 15 - OK
                 
-                12 - KO
-                13 - KO
+                12 - OK
+                13 - OK
 
 
 ===============  System  ===============
 
-                -------
-                
                 01 - OK
                 02 - OK
                 03 - OK
@@ -32,20 +30,22 @@
                 08 - OK
                 09 - OK
                 10 - OK
-                12 - OK
                 11 - OK
+                12 - OK
                 13 - OK
                 14 - OK
                 15 - OK
                 16 - OK
-                17 - OK
-                18 - OK
+                18 - OK 
                 19 - OK
                 20 - OK
                 21 - OK
                 22 - OK
                 23 - OK
                 24 - OK
+                -------
+                
+                17 - OK checker ssh login
 
 ==============  Scripting  ==============
 
@@ -54,3 +54,4 @@
                 01 - OK
                 02 - OK
                 03 - OK
+https://linux.goffinet.org/08-scripts-shell/

@@ -1,0 +1,4 @@
+service --status-all
+
+#systemctl list-units --type service
+#systemctl list-units --type service --all

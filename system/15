@@ -1,0 +1,4 @@
+sudo kill % 
+
+#ajouter le numéro du processus a tuer
+#on peut trouver ce numéro avec "jobs"
