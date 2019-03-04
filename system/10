@@ -1,1 +1,3 @@
 fdisk - l
+
+#done as root (su root -password)

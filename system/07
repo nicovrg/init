@@ -1,1 +1,3 @@
 cat /var/run/sshd.pid
+
+#done as root (su root -password)

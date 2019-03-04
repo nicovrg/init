@@ -1,3 +1,4 @@
 ifconfig | grep ec: | cut -c 11-
 
 #grep la ligne ec puis cut 11 caracteres
+#A media access control address (MAC address) of a device is a unique identifier assigned to a network interface controller (NIC) for communications at the data link layer of a network segment.

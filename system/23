@@ -1,1 +1,3 @@
 ssh login:mdp@ipadrress_machine
+
+#done as root (su root -password)

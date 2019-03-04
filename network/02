@@ -2,4 +2,7 @@ ifconfig en0 | grep broadcast | cut -d ' ' -f6
 arp -an | cut -c 4- | cut -d ')' -f1
 
 #recupere la ligne de broadcast et cut apres le sixieme espace
-#recupere tout les addresses ip 
+#The arp utility displays and modifies the Internet-to-Ethernet address translation tables used by the address resolution protocol.  
+#With no flags, the program displays the current ARP entry for hostname. 
+#The host may be specified by name or by number, using Internet dot notation. 
+#-n show network addresses as numbers (normally arp attempts to display addresses symbolically).

@@ -1,1 +1,3 @@
 du -h /var
+
+#done as root (su root -password)

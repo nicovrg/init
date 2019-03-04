@@ -1,1 +1,3 @@
 awk -F':' '{ print $1}' /etc/passwd
+
+#done as root (su root -password)

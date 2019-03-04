@@ -1,3 +1,4 @@
-ps -aux
+top
 
-#top
+#ps -aux
+#done as root (su root -password)

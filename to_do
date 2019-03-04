@@ -1,4 +1,4 @@
-===============  Network  ===============
+===============  Network - OK ===============
 
                 01 - OK
                 02 - OK
@@ -11,14 +11,12 @@
                 09 - OK
                 10 - OK
                 11 - OK
-                14 - OK
-                15 - OK
-                
                 12 - OK
                 13 - OK
+                14 - OK
+                15 - OK
 
-
-===============  System  ===============
+===============  System - CHECK 07-17-23 ===============
 
                 01 - OK
                 02 - OK
@@ -45,13 +43,16 @@
                 24 - OK
                 -------
                 
-                17 - OK checker ssh login
+                07 - check
+                17 - checker ssh login
+                23 - checker ssh login
 
-==============  Scripting  ==============
-
-                -------
+==============  Scripting DO 03 ==============
 
                 01 - OK
                 02 - OK
+
+
                 03 - OK
+
 https://linux.goffinet.org/08-scripts-shell/

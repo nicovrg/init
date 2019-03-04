@@ -1,1 +1,3 @@
-sudo adduser new_username
+adduser new_username
+
+#done as root (su root -password)

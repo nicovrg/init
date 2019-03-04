@@ -1,1 +1,3 @@
 sudo ssh login
+
+#done as root (su root -password)

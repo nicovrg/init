@@ -1,4 +1,5 @@
-sudo kill % 
+kill % 
 
-#ajouter le numéro du processus a tuer
+#ajouter le numéro du processus a tuer, 1 ici
 #on peut trouver ce numéro avec "jobs"
+#done as root (su root -password)

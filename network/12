@@ -1,1 +1,3 @@
+ipconfig getoption en0 server_identifier
+
 #DHCP, Dynamic Host Configuration Protocol

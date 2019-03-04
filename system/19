@@ -1,4 +1,3 @@
 service --status-all
 
-#systemctl list-units --type service
-#systemctl list-units --type service --all
+#done as root (su root -password)
