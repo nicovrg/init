@@ -50,6 +50,9 @@
 <h2>Usefull links</h2>
 <a href="https://linux.goffinet.org/08-scripts-shell/">Everything about scripts - gold</a>
 <a href="https://forum.intra.42.fr/topics/18376/messages">A nice tuto to install vagrant</a>
+<a href="https://buzut.fr/101-commandes-indispensables-sous-linux/">101 usefull linux commands</a>
+<a href="https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux">Take control with linux</a>
+
 
 <h2>Install Vagrant</h2>
 <p>Go to vagrant website and download a osx64bits version</p>
