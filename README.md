@@ -1,10 +1,8 @@
 <h1>Init</h1>
 
 <h2>Usefull commands</h2>
-<p>ifconfig: (interface configurator) display ip informations
-</br>ifconfig -a: display active and inactive interfaces</br>
-
-</p>
+<p>ifconfig: (interface configurator) display ip informations</p>
+<p>ifconfig -a: display active and inactive interfaces</p>
 
 <h2>Usefull info</h2>
 <h2>Usefull links</h2>
