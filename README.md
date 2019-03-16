@@ -77,16 +77,18 @@
 4. Then we can run thoses commands
 5. mkdir /Volumes/Storage/goinfre/INSERT_LOGIN/vagrant
 6. echo 'export VAGRANT_HOME=/Volumes/Storage/goinfre/INSERT_LOGIN/vagrant' >> ~/.zshrc
-7. vagrant init debian/stretch64
-8. we need to add theses lines if they are not in the Vagrantfile (if you vagrant init, the file has been generated but the synced line will be missing and we will need to add it
-9. Vagrant.configure("2") do |config|
-10. config.vm.box = "debian/stretch64"
-11. config.vm.synced_folder ".", "/git"
-12. end
-13. vagrant plugin install vagrant-vbguest
-14. vagrant up
-15. vagrant vbguest
-16. then we can 1- lanch the vm, 2- install virtualbox guest addition to have a directory monted and sync with local system and 3- start it
+7. vagrant init debian/stretch64 (to generate the file automatically, synced line will be missing)
+8. we need to put theses 4 lines if they are not in the Vagrantfile
+```sh
+Vagrant.configure("2") do |config|
+config.vm.box = "debian/stretch64"
+config.vm.synced_folder ".", "/git"
+end
+```
+9. vagrant plugin install vagrant-vbguest
+10. vagrant up
+11. vagrant vbguest
+12. then we can 1- lanch the vm, 2- install virtualbox guest addition to have a directory monted and sync with local system and 3- start it
 
 
 
