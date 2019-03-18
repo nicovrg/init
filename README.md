@@ -46,6 +46,12 @@
 4. df -h: show available space
 5. du -h [file]: show the size of all the files in the file sent as option
 
+- install / uninstall
+1. sudo apt-get update: update the source file
+2. sudo apt-get upgrade: install available upgrades
+3. sudo apt-get install [program-name]: install the program
+4. sudo apt-get --purge remove [program-name]: remove the program
+
 ### General info
 
 ##### Part one on osx
